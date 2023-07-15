@@ -57,6 +57,37 @@ to switch between branches use git switch "name branch"
 
 # Synchronization to GitHub
 
+## git clone
+
+to download existing repository, *git clone* command is used
+
+Example: *git clone __GitHub link__* 
+
+It'll download a pointed repo to your folder
+
+## git pull
+
+This command downloads all changes to your repo and tries to merge them
+
+## git push 
+
+This command uploads your repo version to remoute repo
+
+**! requires the authorisation at first using!*
+
+## pull request
+
+This command is to suggest changes to existing project of another author
+
+ All changes should be suggested through another new branch: 
+* do "fork" for the repo
+* git clone of YOUR repo version
+* create a new branch and change it
+* commit changes
+* upload it to your GitHub
+* on GitHub site push "pull request" button. 
+
+
 ## to push a new branch to the existing git project special attributes should be used
 
 the command is  __"git push --set-upstream origin (current branch name)"__  
