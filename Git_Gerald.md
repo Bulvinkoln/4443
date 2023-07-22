@@ -1,0 +1,3 @@
+# Emperor penguins
+
+* Emperor penguins can dive over 500 meters deep to search for food. They have a unique reproduction process where males incubate the eggs while females forage for weeks. Additionally, the heart of a hummingbird, the smallest bird in the world, beats up to 1,260 times per minute. Lastly, octopuses have three hearts, two to pump blood to the gills and one for the rest of the body.
